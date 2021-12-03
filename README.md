@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dariavld
 - 👀 I’m interested in Computer Science, NLP, Logic
 - 🌱 I’m currently learning CS50
-- 💞️ It's a bit early for me to collaborate because I've started recently. Nevertheless, I'll be glad to try.
+- 💞️ Computer Science
 - 📫 My email: dariama02@mail.ru
 
 <!---
