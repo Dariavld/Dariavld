@@ -1,4 +1,4 @@
- 📫 My email: dariama02@mail.ru
+ 📫 My email: vlasovadarya2002@gmail.com
 
 <!---
 Dariavld/Dariavld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
